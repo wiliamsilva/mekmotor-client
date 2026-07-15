@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="30"
+   viewBox="0 -960 1200 1200"
+   width="30"
+   fill="#ec3232"
+   version="1.1"
+   id="svg787"
+   sodipodi:docname="funilaria.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs791" />
+  <sodipodi:namedview
+     id="namedview789"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.3509643"
+     inkscape:cx="4.4211887"
+     inkscape:cy="12.651401"
+     inkscape:current-layer="svg787" />
+  <path
+     d="M 550,115 V -35 H 200 v -100 h 800 V -35 H 650 V 115 Z M 450,-410 q 21.25,0 35.625,-14.375 Q 500,-438.75 500,-460 500,-481.25 485.625,-495.625 471.25,-510 450,-510 q -21.25,0 -35.625,14.375 Q 400,-481.25 400,-460 q 0,21.25 14.375,35.625 Q 428.75,-410 450,-410 Z m 300,0 q 21.25,0 35.625,-14.375 Q 800,-438.75 800,-460 800,-481.25 785.625,-495.625 771.25,-510 750,-510 q -21.25,0 -35.625,14.375 Q 700,-481.25 700,-460 q 0,21.25 14.375,35.625 Q 728.75,-410 750,-410 Z m -500,-145 82.5,-240 q 6.25,-17.5 20.625,-28.75 Q 367.5,-835 385,-835 h 430 q 17.5,0 31.875,11.25 14.375,11.25 20.625,28.75 l 82.5,240 v 330 q 0,17.5 -11.25,28.75 Q 927.5,-185 910,-185 h -20 q -17.5,0 -28.75,-11.25 Q 850,-207.5 850,-225 v -60 H 350 v 60 q 0,17.5 -11.25,28.75 Q 327.5,-185 310,-185 h -20 q -17.5,0 -28.75,-11.25 Q 250,-207.5 250,-225 Z m 132.5,-80 h 435 l -35,-100 h -365 z"
+     id="path785"
+     style="stroke-width:1.25" />
+</svg>

@@ -1,3 +1,4 @@
+import 'package:flutter/rendering.dart';
 import 'package:mekmotorclient/routing/menu_app_controller.dart';
 import 'package:mekmotorclient/ui/F_AUTHENTICATION/widgets/authentication_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -6,10 +7,14 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  SemanticsBinding.instance.ensureSemantics();
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -17,6 +22,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Admin Panel',
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: bgColor,
+
         textTheme: GoogleFonts.poppinsTextTheme(
           Theme.of(context).textTheme,
         ).apply(bodyColor: Colors.white),

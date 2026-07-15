@@ -214,7 +214,7 @@ class _AuthenticationScreenState extends State<AuthenticationScreen> {
       } else {
         MekMotorLogger.info("Cadastro validado");
 
-        MekMotorLogger.info("${email}, ${password}, ${name}");
+        MekMotorLogger.info("$email, $password, $name");
 
         /** 
          TODO Integrar ao serviço de autenticação do mekmotor-server
